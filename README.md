@@ -1,6 +1,6 @@
 ## Olá, me chamo Matheus!! 
 📌 -> Estudante iniciante de Programção.<br>
-💻 -> Atualmente aprendendo sobre Banco de dados.<br>
+💻 -> Atualmente estudando sobre Banco de dados.<br>
 📖 -> Me graduando em Ciências da Computação.
 
 <div align="center">
